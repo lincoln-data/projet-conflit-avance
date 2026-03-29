@@ -1,4 +1,4 @@
 langue=francais
-theme=clair
+theme=sombre
 notifications=activees
-taille_police=14
+taille_police=16
