@@ -1,0 +1,4 @@
+langue=francais
+theme=clair
+notifications=activees
+taille_police=14
